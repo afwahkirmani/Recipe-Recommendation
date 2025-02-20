@@ -1,4 +1,4 @@
 scikit-learn
 gtts
-speech_recognition
-pip==25.0.1
+SpeechRecognition
+
