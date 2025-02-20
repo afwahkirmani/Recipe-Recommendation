@@ -1,7 +1,5 @@
-pandas
-numpy
+pip==25.0.1
+numpy==1.21.0
+scipy==1.7.0
+scikit-learn==1.0.2
 streamlit
-scikit-learn
-gtts
-tempfile
-speech_recognition
