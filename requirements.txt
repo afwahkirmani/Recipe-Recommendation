@@ -1,7 +1,7 @@
 pandas
 numpy
 streamlit
-sklearn
+scikit-learn
 gtts
 tempfile
 speech_recognition
