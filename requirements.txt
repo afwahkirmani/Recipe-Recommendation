@@ -1,5 +1,11 @@
-scikit-learn
-gtts
-SpeechRecognition
+streamlit
+torch
 ultralytics
 opencv-python
+pillow
+pandas
+numpy
+scikit-learn
+gTTS
+SpeechRecognition
+
